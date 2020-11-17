@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
     <!-- Add page icon -->
-    <link rel="icon" href="<?php ?>/assets/icon/sb.png" type="image/png" sizes="16x16" />
+    <link rel="icon" href="/assets/icon/sb.png" type="image/png" sizes="16x16" />
     <title>Birthday Reminder</title>
     
     <!-- Latest compiled and minified CSS -->
@@ -19,5 +19,17 @@
     
     <!-- Add external css  -->
     <link rel="stylesheet" href="assets/css/theme.css" />
+	
+	<style type="text/css">
+    p.footer {
+		text-align: right;
+		font-size: 11px;
+		border-top: 1px solid #D0D0D0;
+		line-height: 32px;
+		padding: 0 10px 0 10px;
+		margin: 20px 0 0 0;
+	}
+	</style>
+	
 </head>
 <body>
