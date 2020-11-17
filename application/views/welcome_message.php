@@ -74,7 +74,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	
 	<a href="birthdays">Birthdays Reminder</a>
 	
-	<a href="birthday">Birthdays</a>
+	<a href="birthdaydetails">Birthday Details</a>
 	
 		<!-- <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
 
