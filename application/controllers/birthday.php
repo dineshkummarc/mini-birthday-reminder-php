@@ -20,6 +20,6 @@ class Birthday extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('birthday');
+		$this->load->view('birthdays');
 	}
 }
