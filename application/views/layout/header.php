@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     
     <!-- Add page icon -->
-    <link rel="icon" href="assets/icon/sb.png" type="image/png" sizes="16x16" /> 
+    <link rel="icon" href="<?php ?>/assets/icon/sb.png" type="image/png" sizes="16x16" />
     <title>Birthday Reminder</title>
     
     <!-- Latest compiled and minified CSS -->
