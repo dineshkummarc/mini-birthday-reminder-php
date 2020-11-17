@@ -51,6 +51,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $route['default_controller'] = 'welcome';
 $route['birthdays/index'] = 'birthdays';        // to call view/birthday_message.php
-$route['birthday/index'] = 'birthday';
+$route['BirthdayDetails/index'] = 'birthdaydetails';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
